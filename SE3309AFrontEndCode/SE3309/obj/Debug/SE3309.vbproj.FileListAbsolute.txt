@@ -1,0 +1,9 @@
+C:\Users\nicho\documents\visual studio 2013\Projects\SE3309\SE3309\bin\SE3309.dll.config
+C:\Users\nicho\documents\visual studio 2013\Projects\SE3309\SE3309\bin\SE3309.dll
+C:\Users\nicho\documents\visual studio 2013\Projects\SE3309\SE3309\bin\SE3309.pdb
+C:\Users\nicho\documents\visual studio 2013\Projects\SE3309\SE3309\bin\SE3309.xml
+C:\Users\nicho\documents\visual studio 2013\Projects\SE3309\SE3309\obj\Debug\SE3309.Resources.resources
+C:\Users\nicho\documents\visual studio 2013\Projects\SE3309\SE3309\obj\Debug\SE3309.vbproj.GenerateResource.Cache
+C:\Users\nicho\documents\visual studio 2013\Projects\SE3309\SE3309\obj\Debug\SE3309.dll
+C:\Users\nicho\documents\visual studio 2013\Projects\SE3309\SE3309\obj\Debug\SE3309.xml
+C:\Users\nicho\documents\visual studio 2013\Projects\SE3309\SE3309\obj\Debug\SE3309.pdb

@@ -1,0 +1,44 @@
+﻿/*body
+    {
+        font-family: Arial;
+        font-size: 10pt;
+        color: #444;
+    }
+    .main_menu, .main_menu:hover
+    {
+        width: 100px;
+        background-color: #fff;
+        color: #333;
+        text-align: center;
+        height: 30px;
+        line-height: 30px;
+        margin-right: 5px;
+        display: inline-block;
+    }
+    .main_menu:hover
+    {
+        background-color: #ccc;
+    }
+    .level_menu, .level_menu:hover
+    {
+        width: 110px;
+        background-color: #fff;
+        color: #333;
+        text-align: center;
+        height: 30px;
+        line-height: 30px;
+        margin-top: 5px;
+    }
+    .level_menu:hover
+    {
+        background-color: #ccc;
+    }
+    .selected, .selected:hover
+    {
+        background-color: #A6A6A6 !important;
+        color: #fff;
+    }
+    .level2
+    {
+        background-color: #fff;
+    }*/
